@@ -46,5 +46,5 @@ Using pivot tables, I created pivot charts to present the data in a more organiz
 The dashboard includes charts such as monthly sales trends, top-performing product categories, customer age group analysis, sales performance by region, and total sales by payment method. The dashboard is designed to help the store owner gain actionable insights to improve sales strategies and customer engagement.
 
 Below is a snippet of the final dashboard in Excel.
+![Screenshot 2025-01-06 213840](https://github.com/user-attachments/assets/0d75f975-9c6f-416b-a0c7-59067dc39afd)
 
-![alt text](<Screenshot 2025-01-06 213840-1.png>)
