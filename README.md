@@ -1,6 +1,6 @@
 # EasyBuy e-commerce store Report on Microsoft Excel 
+![download](https://github.com/user-attachments/assets/e3a573e3-dfbc-48c3-a613-b5a7372fdfb8)
 
-![alt text](istockphoto-1350513991-1024x1024.jpg)
 
 # Project Description :-
  The project aims to create a detailed annual sales report for A Infinity Store in 2024, analyzing sales performance and customer trends. This report will help the store owner understand customer preferences and make informed decisions to boost sales and growth in 2025.
@@ -26,16 +26,16 @@ In this project, I have created an online shopping analytics dashboard, a powerf
 2. Removed the duplicates values from  Qty One = 1 and Two = 2.
  
 3. Create an interactive Microsoft Excel report .
-
-![alt text](<Screenshot 2025-01-06 205034.png>)
-![alt text](<Screenshot 2025-01-06 211355.png>)
+   
+![Screenshot 2025-01-06 205034](https://github.com/user-attachments/assets/c3a0af80-857d-4c09-bf7d-1a8ce4f17f84)
+![Screenshot 2025-01-06 211355](https://github.com/user-attachments/assets/3d404592-0a23-4c97-a827-094921a90b76)
 
 # Data Processing :-
 1. I created a new column called 'Age Group' to better categorize and analyze the data more efficiently
 2) According to the problem statement 'highest sales category,' we need to extract the month from the 'Date(G)' column.
-
-![alt text](<Screenshot 2025-01-06 205056.png>)
-![alt text](<Screenshot 2025-01-06 212952.png>)
+   
+![Screenshot 2025-01-06 205056](https://github.com/user-attachments/assets/5906c38a-958c-480e-afe6-625e349f095a)
+![Screenshot 2025-01-06 212952](https://github.com/user-attachments/assets/71620d28-e2b7-4198-92a6-dd2afbdef660)
 
 # Data Analysis :-
 1) For data analysis, I explored trends in sales, customer behavior, and product preferences by examining key metrics such as total sales, purchase frequency, and customer demographics. This analysis helped identify patterns that could drive strategic decisions to boost future sales.
