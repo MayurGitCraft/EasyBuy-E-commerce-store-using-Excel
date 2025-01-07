@@ -3,11 +3,11 @@
 
 
 # Project Description :-
- The project aims to create a detailed annual sales report for A Infinity Store in 2024, analyzing sales performance and customer trends. This report will help the store owner understand customer preferences and make informed decisions to boost sales and growth in 2025.
+ The project aims to create a detailed annual sales report for a EasyBuy e-commerce store in 2024, analyzing sales performance and customer trends. This report will help the store owner understand customer preferences and make informed decisions to boost sales and growth in 2025.
 In this project, I have created an online shopping analytics dashboard, a powerful tool designed to analyze and visualize shopping data for the year 2024.
 
 # Problem Statement :-
-  A Infinity store wants to create an annual sales report for 2024. So that, Infinity store's onwer can Understand their customers and grow more sales in 2025:-
+  A EasyBuy e-commerce store wants to create an annual sales report for 2024. So that, Infinity store's onwer can Understand their customers and grow more sales in 2025:-
 
 1) compare the sales and orders using single chart 
 2) which month got the highest sales and orders 
